@@ -1,12 +1,12 @@
-Package: pkgname 
-Version: 0.5-1 Date: 2004-01-01 
-Title: My First Collection of Functions 
-Authors@R: c(person("Joe", "Developer", role = c("aut", "cre"), email = "Joe.Developer@some.domain.net"), person("Pat", "Developer", role = "aut"), person("A.", "User", role = "ctb", email = "A.User@whereever.net")) 
-Author: Joe Developer and Pat Developer, with contributions from A. User 
-Maintainer: Joe Developer <Joe.Developer@some.domain.net> 
+Package: yourpkg 
+Version: 1 Date: 2013-10-12 
+Title: Programming Assignment 7 Github
+Authors@R: c(person("Thomas", "Developer", role = c("aut", "cre"), email = "Joe.Developer@some.domain.net"), person("Micha", "Developer", role = "aut"), person("A.", "User", role = "ctb", email = "A.User@whereever.net")) 
+Author: Thomas and Micha
+Maintainer: Thomas and Micha <Joe.Developer@some.domain.net> 
 Depends: R (>= 1.8.0), nlme 
 Suggests: MASS 
-Description: A short (one paragraph) description of what the package does and why it may be useful. 
+Description: This packaage can add two or four to a variable. See readme for more information.
 License: GPL (>= 2) 
-URL: http://www.r-project.org, http://www.another.url 
+URL: https://github.com/rsm12345/programmingAssignment7
 BugReports: http://pkgname.bugtracker.url 
